@@ -1,0 +1,8 @@
+A loja de verduras Lumelância convidou você para desenvolvedor um script simples para seus clientes.
+Você precisa criar um cartão fidelidade na loja Lumelância.
+
+Você deverá seguir os passos abaixo:
+
+- Crie variaveis para o guardar o nome, idade, se é a primeira vez e uma lista produtos favoritos
+- Atribua valores a essas variaveis
+- Crie um objeto recebendo os valores dessa variaveis e o imprima no console
