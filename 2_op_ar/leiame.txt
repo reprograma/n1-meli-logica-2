@@ -1,5 +1,7 @@
 A loja Lumelância precisa de uma nova função no seu sistema para calcular um desconto nos seus produtos.
 
+Você deverá seguir os seguintes passos:
+
 - Crie uma variável que irá guardar o array com nome e valor dos produtos
 - Crie uma variável 'posicao' para guardar o produto escolhido pelo usuário
 - Crie uma variável 'porcentagem' que irá guardar qual porcentagem o usuário digitou
