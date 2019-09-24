@@ -11,19 +11,20 @@ O cronograma pode ser alterado caso necessário.
 - [Breve introdução ao JS](https://docs.google.com/presentation/d/17DiLnl-Uqrrvpz-8b5Zb5HourN6ywaRAbTIZv0g59c8/edit?usp=sharing)
 - Lógica de programação e Algoritmos
 - Variáveis e tipos de dados
+- Operadores aritméticos e relacionais
 
 ### Aula 2
-- Operadores aritméticos e relacionais
 - Operadores lógicos
+- Estrutura de controle e condicionais
 
 ### Aula 3
-- Estrutura de controle e condicionais
 - Funções
 - let e const
 - funções úteis do js
+- Estrutura de repetição
 
 ### Aula 4
-- Estrutura de repetição
+
 - Desafios
 
 ### Aula 5
