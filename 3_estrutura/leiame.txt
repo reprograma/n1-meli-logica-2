@@ -27,4 +27,4 @@ Quando os funcionários estiverem reorganizando as prateleiras, eles deverão ve
 
     - Printar a mensagem "Desconto! Produto congelado e próximo da validade." caso produto seja congelado e com 5% ou menos de dias para vencer;
 
-    - Printar a mensagem "Produto longe do vencimento." caso produto esteja com mais de 10% dos dias para vencer;
+    - Printar a mensagem "Produto longe do vencimento." caso não contemple as outras condições.
