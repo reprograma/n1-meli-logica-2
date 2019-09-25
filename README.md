@@ -14,6 +14,7 @@ O cronograma pode ser alterado caso necessário.
 - Operadores aritméticos e relacionais
 
 ### Aula 2
+- [Relembrando...](https://docs.google.com/presentation/d/1-Vb1jEtXwILYn49Wv8L0zr0LCsiVhxawNSxCf65EdBc/edit?usp=sharing)
 - Operadores lógicos
 - Estrutura de controle e condicionais
 
