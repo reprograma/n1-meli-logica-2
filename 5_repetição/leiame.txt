@@ -21,3 +21,34 @@ O programa vai dizer "Tchau [nome]" e finalizar o programa.
 4) Crie um  programa contador de passos, que acumule os valores de passos informados pelo usuário até que a meta seja atingida.
 A meta a ser atingida é de 500 passos.
 - Aqui você pode usar while ou do/while para resolver, mas tente resolver com o que você não utilizou no exercicio 3.
+
+
+---
+
+Desafios extras:
+
+5) Crie um programa que receba 10 números digitados no cmd. Ordene esse números em ordem crescente usando o Bubble Sort, utilizando loops e printe na tela.
+Exemplo:
+Recebendo: [5, 350, 15, 36, 5000, 30, 90, 1, 88, 450]
+Ordenando: [1, 5, 15, 30, 36, 88, 90, 350, 450, 5000]
+
+6) Agora, crie um programa que receba 10 números digitados no cmd. Ordene esse números em ordem decrescente usando o Bubble Sort, utilizando loops e printe na tela.
+Exemplo:
+Recebendo: [5, 350, 15, 36, 5000, 30, 90, 1, 88, 450]
+Ordenando: [5000, 450, 350, 90, 88, 36, 30, 15, 5, 1]
+
+7) Dada a lista [10,11,12,13], a cada par troque os números de lugar. Utilizando loopd, você não poderá modificar os valores da lista, apenas trocar os indeces de lugar.
+Resultado esperado: [11,10,13,12]
+
+8) Dados n pares de parênteses, crie um programa para gerar todas as combinações de parênteses possíveis.
+Exemplo: 
+Recebendo: n = 3
+Resposta esperada: 
+[
+  "((()))",
+  "(()())",
+  "(())()",
+  "()(())",
+  "()()()"
+]
+Dica: Veja sobre os as funções pop() e push() disponíveis em um array.
