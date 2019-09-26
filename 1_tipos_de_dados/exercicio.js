@@ -1,5 +1,6 @@
 //resposta aqui
 
+<<<<<<< HEAD
 /*Você criará um cartão fidelidade na loja Lumelância e deverá seguir os passos abaixo:
 
 - Crie variaveis para o guardar o nome, idade, se é a primeira vez e uma lista produtos favoritos do cliente
@@ -20,3 +21,6 @@ var luma = {
 };
 
 console.log(luma);
+=======
+console.log("oi")
+>>>>>>> 90e303812311d14012238ad43cca13a2a42c18c9
