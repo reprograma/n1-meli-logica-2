@@ -1,0 +1,52 @@
+Para praticar:
+1 - Utilizando uma estrutura de repetição diferente da que utilizou ontem, crie um programa para printar todos os números pares de 1 a 100.
+- Números pares são todos os números que dividos por 2 tem resto 0
+- Qual operador que retorna o resto da divisão? Vamos usar ele!
+
+2 - Utilizando uma estrutura de repetição diferente da que utilizou ontem, crie um programa gerador de estrelas. O usuário informa um número, e o programa gera uma pirâmide de estrelas no seguinte formato:
+// Ex.: Usuário informa 5 e o programa retorna
+// *
+// * *
+// * * *
+// * * * * 
+// * * * * * 
+- Você pode concatenar uma string usando: + ou +=
+
+3- Utilizando uma estrutura de repetição diferente da que utilizou ontem, crie um programa que pergunta ao usuário seu nome. Depois que o usuário digitar o nome, o programa deverá responder "Olá [nome]".
+Enquanto usuário digitar qualquer palavra, print o que ele está digitando mas avise que para sair ele pode dizer "Tchau".
+O programa vai dizer "Tchau [nome]" e finalizar o programa.
+
+4 - Utilizando uma estrutura de repetição diferente da que utilizou ontem, crie um  programa contador de passos que acumule os valores de passos informados pelo usuário até que a meta seja atingida.
+A meta a ser atingida é de 500 passos.
+
+5 - Crie um programa que conte de 10 até 1 de 1 em 1.
+
+6 - Crie um programa que receba o array = [5, 37, 18, 59, 12, -5] e faça as seguintes operações:
+    - Printe o maior;
+    - Printe o menor.
+
+--
+
+Desafios extras:
+
+1 - Crie um programa que printe a frase "Olá eu sou a [seu nome aqui]".
+
+2 - Crie um programa que irá converter o uma quantia de real para dolar utilizando a cotação do dia.
+
+3 - Crie um programa que receba um valor e printe a mensagem:
+    - “Dentro”, se estiver entre 3 e 5
+    - “Fora” se estiver fora do intervalo 4 e 7.
+
+4 - Crie um programa que receba duas notas de um aluno, calcule a média e mostre se ele foi aprovado!
+    - Se a nota for maior ou igual a 6, printar "Aprovado"
+    - Se a nota for maior ou igual a 5, printar "Recuperação"
+    - Se for menor que a nota de recuperação, printar "Reprovado"
+
+5 - Crie um programa de urna eletrônica para receber o voto de sua heroína favorita.
+Você deve iniciar o programa mostrando ao usuário qual as opções de voto ele tem, em seguida peça que ele escolha uma das opções:
+    - Caso for 0 - voto nulo
+    - Caso for 10 - voto Mulher Maravilha
+    - Caso for 20 - voto Capitã Marvel
+    - Caso não digitar nada, voto vai pra Silvia
+
+6 - Crie um programa que receba o array = [5, 37, 18, 59, 12, -5] e ordene esse array do menor para o maior (sem usar sort).
